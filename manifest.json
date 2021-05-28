@@ -1,0 +1,12 @@
+{
+	"manifest_version": 3,
+	"version": "1.0.0",
+	"name": "Baby Blue",
+	"theme": {
+		"colors": {
+			"frame": [199, 221, 252],
+			"toolbar": [227, 237, 252],
+			"omnibox_background": [255, 255, 255]
+		}
+	}
+}
